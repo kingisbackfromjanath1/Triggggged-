@@ -3,7 +3,7 @@ import json
 import telebot
 
 ##TOKEN DETAILS
-TOKEN = "TRON"
+TOKEN = "6120041933:AAFUplulFT06MDNU_CAqiFUvOtKfqhnpbhA"
 
 BOT_TOKEN = "6120041933:AAFUplulFT06MDNU_CAqiFUvOtKfqhnpbhA"
 PAYMENT_CHANNEL = "@adarmy1" #add payment channel here including the '@' sign
